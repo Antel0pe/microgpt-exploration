@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Trained model snapshots
+saved_runs/
+
+# Inference sample outputs
+output_names/
